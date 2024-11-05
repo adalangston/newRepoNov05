@@ -4,10 +4,14 @@ author: "Ada Langston"
 format: 
   html:
     embed-resources: true
+theme: quartz
 ---
+
+you can find themes and more info on quarto website html page
 
 NEED TO CREATE HTML BC A QUARTO ON WEBPAGE WILL JUST DOWNLOAD THE QAURTO
 
+local host means its just on your computer
 
 ## Quarto
 
